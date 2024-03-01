@@ -4,7 +4,7 @@
 
 layout: home
 ---
-![Mike Madrigal]({{site.baseurl}}/assets/Mike.jpg){:width="150"}
+![Mike Madrigal]({{site.baseurl}}/Mike.jpg){:width="150"}
 
 
 **Mike Madrigal Biography**
